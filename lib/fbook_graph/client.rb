@@ -1,4 +1,4 @@
-module FacebookGraph
+module FbookGraph
   class Client
     ## Attributes
     attr_accessor :token

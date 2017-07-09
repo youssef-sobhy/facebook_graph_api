@@ -1,4 +1,4 @@
-# FacebookGraph
+# FbookGraph
 
 
 ## Installation
@@ -6,7 +6,7 @@
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'facebook_graph'
+gem 'fbook_graph'
 ```
 
 And then execute:
@@ -15,7 +15,7 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install facebook_graph
+    $ gem install fbook_graph
 
 ## Usage
 
@@ -27,7 +27,7 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/facebook_graph.
+Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/fbook_graph.
 
 ## License
 

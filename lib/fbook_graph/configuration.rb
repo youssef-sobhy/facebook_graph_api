@@ -1,4 +1,4 @@
-module FacebookGraph
+module FbookGraph
   module Configuration
     ## BASE URLS AND API VERSION
     GRAPH_URL = 'https://graph.facebook.com/'.freeze

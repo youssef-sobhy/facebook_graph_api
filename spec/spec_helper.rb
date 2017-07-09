@@ -1,5 +1,5 @@
 require 'bundler/setup'
-require 'facebook_graph'
+require 'fbook_graph'
 
 RSpec.configure do |config|
   # Enable flags like --only-failures and --next-failure

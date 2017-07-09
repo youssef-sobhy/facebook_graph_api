@@ -1,4 +1,4 @@
-module FacebookGraph
+module FbookGraph
   class Image
     ## Class Methods
     class << self

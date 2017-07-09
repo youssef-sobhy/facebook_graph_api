@@ -1,11 +1,11 @@
 # coding: utf-8
 lib = File.expand_path('../lib', __FILE__)
 $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
-require 'facebook_graph/version'
+require 'fbook_graph/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = 'facebook_graph'
-  spec.version       = FacebookGraph::VERSION
+  spec.name          = 'fbook_graph'
+  spec.version       = FbookGraph::VERSION
   spec.authors       = ['Youssef Sobhy']
   spec.email         = ['youssefsobhy22@gmail.com']
 

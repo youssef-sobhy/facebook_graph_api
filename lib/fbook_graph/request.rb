@@ -1,4 +1,4 @@
-module FacebookGraph
+module FbookGraph
   class Request
     ## Attributes
     attr_accessor :response
