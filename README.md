@@ -1,5 +1,7 @@
 # FbookGraph
+[![Build Status](https://travis-ci.org/youssef1337/facebook_graph_api.svg?branch=master)](https://travis-ci.org/youssef1337/facebook_graph_api)
 
+This gem provides a Ruby wrapper around the Facebook Graph API.
 
 ## Installation
 
@@ -18,6 +20,23 @@ Or install it yourself as:
     $ gem install fbook_graph
 
 ## Usage
+
+Register a new client
+
+```ruby
+client = FbGraph::Client.new(access_token)
+```
+### Get your friends
+
+`client.my_friends`
+
+`my_friends` method takes an optional argument `start_with: ` or `end_with:`
+
+### Get your images
+
+`client.my_images`
+
+`my_images` takes an optional argument of the album name. Ex. 'cover', 'profile', 'instagram'.
 
 ## Development
 
