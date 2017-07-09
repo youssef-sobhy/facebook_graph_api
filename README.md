@@ -24,7 +24,7 @@ Or install it yourself as:
 Register a new client
 
 ```ruby
-client = FbGraph::Client.new(access_token)
+client = FbookGraph::Client.new(access_token)
 ```
 ### Get your friends
 
