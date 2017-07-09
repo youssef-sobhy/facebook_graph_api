@@ -1,5 +1,5 @@
 # FbookGraph
-
+[![Build Status](https://travis-ci.org/youssef1337/facebook_graph_api.svg?branch=master)](https://travis-ci.org/youssef1337/facebook_graph_api)
 
 ## Installation
 
